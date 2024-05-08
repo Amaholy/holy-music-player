@@ -1,3 +1,8 @@
+# screen
+
+![Screenshot_2](https://github.com/Amaholy/holy-music-player/assets/128307926/70390c27-5d3c-4d19-ba2e-d976062fe459)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
